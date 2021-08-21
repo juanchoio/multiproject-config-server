@@ -2,7 +2,7 @@ server:
   port: 9100
 spring:
   application:
-    name: serivce-customer
+    name: service-customer
   h2:
     console:
       enabled: true

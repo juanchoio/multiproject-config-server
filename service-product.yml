@@ -2,7 +2,7 @@ server:
   port: 9200
 spring:
   application:
-    name: serivce-product
+    name: service-product
   h2:
     console:
       enabled: true
